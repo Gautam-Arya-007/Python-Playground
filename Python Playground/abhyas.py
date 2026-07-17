@@ -1,6 +1,6 @@
 Name = "Gautam Arya"
 Age = 19
-price = "200"
+price = "20"
 price2 = int(price)
 print(Name)
 print(Age)
