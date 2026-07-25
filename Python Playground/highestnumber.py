@@ -5,6 +5,9 @@ c = int(input("Enter the number :"))
 if(a>b):
     if(a>c):
         print("Highest number is :",a)
-    elif(c > a):
-         print("Highest number is :",c)
- 
+if(c>b):
+    if(c>a):
+        print("Highest number is :",c)
+if(b>a):
+    if(b>c):
+        print("Highest number is :",b)    
